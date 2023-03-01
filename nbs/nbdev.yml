@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev-tutorial"
+  site-url: "https://chaiitanyasangani88.github.io/nbdev-tutorial"
+  description: "Repo to test nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/chaiitanyasangani88/nbdev-tutorial"
